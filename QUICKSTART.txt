@@ -1,0 +1,27 @@
+4ECHouse v1.0 - BẢN CHẠY NGAY
+
+1) Mở file 4ECHouse.html bằng Chrome, Edge hoặc Safari.
+2) Trên điện thoại/iPad có thể mở file qua máy chủ web nội bộ/hosting để dùng như web app.
+3) Trên máy tính, bản nguồn React nằm trong thư mục src/ và package.json.
+
+TÍNH NĂNG BẢN NỀN:
+- Giao diện 100% tiếng Việt
+- Responsive mobile / tablet / desktop
+- Đơn vị của tôi
+- Vẽ tường/phòng/cửa/cửa sổ bằng kéo cảm ứng hoặc chuột
+- Lưu dự án cục bộ
+- Nội thất và vật liệu
+- Toolbox
+- Thị trường nhà
+- 31 bài hướng dẫn
+
+CẦN PHÁT TRIỂN TIẾP ĐỂ THÀNH SẢN PHẨM THƯƠNG MẠI:
+- Backend tài khoản + cloud sync
+- LiDAR native iOS
+- Bluetooth SDK cho từng máy đo
+- CAD/DXF/OBJ thật
+- Renderer 3D thật/WebGL
+- Panorama 360° thật
+- Upload ảnh/model và CDN
+- Phân quyền, thanh toán, sao lưu máy chủ
+- Đóng gói iOS/iPadOS/Windows/macOS.
